@@ -1,0 +1,2 @@
+initialize node project: npm init -y;
+nodemon : "start": "nodemon index.js" (start app using npm start);
